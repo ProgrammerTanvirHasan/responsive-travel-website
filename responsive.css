@@ -21,6 +21,17 @@
     .text-file input ,button{
         width: 50%;
     }
+    .popular-tour{
+        display: flex;
+        flex-direction: column;
+     }
+     .second-part{
+        padding: 0;
+        width: 100%;
+     }
+     .img-part{
+        width: 100%;
+     }
    
 }
 

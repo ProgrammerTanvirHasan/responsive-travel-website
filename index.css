@@ -20,8 +20,7 @@ header{
 }
 .navigation-bar{
     height: 70px;
-    border: 2px solid red;
-    display: flex;
+   display: flex;
     justify-content: space-between;
    
 }
@@ -36,3 +35,35 @@ header{
     color: #424247;
 }
 /* navigation bar complete////////////// */
+.main-first{
+    width: 90%;
+    margin: 10px auto;
+    height: 500px;
+    background-image: url(Group\ 13\ \(1\)\ \(1\).png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-field{
+  
+text-align: center;
+color: white;
+
+
+}
+.details{
+    width:676px;
+    height: 156px;
+}
+.text-file input ,button{
+    height: 30px;
+    border-radius: 5px;
+    width: 18%;
+    margin: 5px;
+}
+.baton{
+   background-color:#ff5400 ;
+   padding: 5px;
+   margin: 5px;
+}
+/* <!-- first section end////////////// --> */

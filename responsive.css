@@ -3,12 +3,25 @@
         display: none;
     }
 }
+
 @media screen and (max-width:600px) {
     .home-page{
         display: none;
-
     }
     .icon{
         padding: 20px;
+
     }
+    .text-file , .bio{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+       
+    }
+    .text-file input ,button{
+        width: 50%;
+    }
+   
 }
+
+

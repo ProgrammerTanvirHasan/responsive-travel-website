@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 90%;
+    margin: 0 auto;
+}
+.nav-container{
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+.nav-title{
+    margin-left: 20px;
+}
+.agency{
+    color: #ff5400;
+}
+.navigation-bar{
+    height: 70px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.home-page{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.home-page a{
+    text-decoration: none;
+    color: #424247;
+}
+/* navigation bar complete////////////// */

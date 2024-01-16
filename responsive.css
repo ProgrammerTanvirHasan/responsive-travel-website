@@ -67,6 +67,14 @@
      .form{
         width: 100%;
      }
+     .footer{
+      width: 100%;
+      height: auto;
+     }
+     footer{
+      height: auto;
+    
+     }
    
 }
 

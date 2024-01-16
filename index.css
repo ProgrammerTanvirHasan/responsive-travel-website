@@ -56,16 +56,17 @@ color: white;
     width:676px;
     height: 156px;
 }
-.text-file input ,button{
+.text-file input ,buton{
     height: 30px;
     border-radius: 5px;
     width: 18%;
     margin: 5px;
 }
-.baton{
+.search{
    background-color:#ff5400 ;
    padding: 5px;
    margin: 5px;
+   height:30px ;
 }
 /* <!-- first section end////////////// --> */
 .popular-tour{
@@ -262,7 +263,27 @@ footer{
 .booking{
   background-color: #ff5400;
 }
-
+.packages{
+  background-color: #ff5400;
+ 
+}
+.last-baton{
+  margin-left: 45%;
+  padding: 20px;
+}
+.save{
+  position: relative;
+}
+.travel{
+  position: absolute;
+  bottom: 80px;
+  left: 400px;
+  background-color: #ff5400;
+  border-radius: 5px;
+  transform: rotate(-45deg);
+  color: #cff3ed;
+  text-align: center;
+}
 
 
   

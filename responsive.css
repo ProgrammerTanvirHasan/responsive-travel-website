@@ -47,6 +47,19 @@
        flex-direction: column;
         height: auto;
      }
+     .card-container {
+        display: flex;
+        flex-direction: column;
+        
+     }
+     .card {
+        width: 100%;
+       
+     }
+     .card-two{
+        width: 90%;
+        margin: 10px auto;
+     }
    
 }
 

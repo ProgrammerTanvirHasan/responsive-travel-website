@@ -110,3 +110,30 @@ color: white;
     width: 90%;
     margin: 10px auto;
   }
+  /* destination part end //////////////*/
+
+  .choose{
+    text-align: center;
+    margin: 50px;
+  }
+
+  .card ,.card-two{
+    width: 50%;
+    height: 284px;
+     padding: 100px;
+    background-color: #f7f4f1;
+    border-radius: 5px;
+}
+ 
+  .card-container{
+    width: 90%;
+    margin: 10px auto;
+    display: flex;
+    gap: 10px;
+    
+  }
+ .card-two{
+ margin-left: 350px;
+ background-color:#cff3ed ;
+ }
+ /* <!-- choose file complete //////////////--> */

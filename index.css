@@ -202,3 +202,22 @@ footer{
 .end{
   text-align: center;
 }
+.img-text{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  padding: 50px;
+ }
+
+.text ,.one-img{
+  width: 100%;
+}
+.text{
+  margin-top: 100px;
+}
+.buton{
+  background-color:#ff5400 ;
+   padding: 5px;
+   margin: 5px;
+   width: 20%;
+}

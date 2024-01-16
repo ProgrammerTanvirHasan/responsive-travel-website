@@ -73,8 +73,19 @@
      }
      footer{
       height: auto;
-    
-     }
+         }
+       .img-text{
+         display: flex;
+         flex-direction: column;
+         padding: 0;
+
+       } 
+       .text{
+         width: 100%;
+       } 
+       .one-img{
+         width: 100%;
+       }
    
 }
 

@@ -221,3 +221,48 @@ footer{
    margin: 5px;
    width: 20%;
 }
+/* last part///////////////// */
+
+.discount{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.card-ten-head{
+  width: 90%;
+  height: 500px;
+  background-image: url(Group\ 39.png);
+  margin: auto;
+  position: relative;
+ 
+}
+.card-ten{
+  width: 50%;
+  height: 380px;
+ 
+  border-radius: 10px;
+  background-color: #ffffff60;
+  position: absolute;
+  left: 45%;
+  top: 20%;
+  padding: 100px;
+}
+.tour-two .card-ten{
+  position: absolute;
+  left: 5%;
+  top: 20%;
+  
+}
+.tour-two .card-ten-head{
+  background-image: url(Group\ 40.png);
+}
+.common{
+  color: #ff5400 ;
+}
+.booking{
+  background-color: #ff5400;
+}
+
+
+
+  

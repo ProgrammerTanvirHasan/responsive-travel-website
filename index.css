@@ -123,6 +123,7 @@ color: white;
      padding: 100px;
     background-color: #f7f4f1;
     border-radius: 5px;
+   
 }
  
   .card-container{
@@ -135,5 +136,8 @@ color: white;
  .card-two{
  margin-left: 350px;
  background-color:#cff3ed ;
+ }
+ .card-container img{
+text-align: left;
  }
  /* <!-- choose file complete //////////////--> */

@@ -120,7 +120,7 @@ color: white;
   .card ,.card-two{
     width: 50%;
     height: 284px;
-     padding: 100px;
+    padding: 100px;
     background-color: #f7f4f1;
     border-radius: 5px;
    
@@ -140,4 +140,32 @@ color: white;
  .card-container img{
 text-align: left;
  }
+
  /* <!-- choose file complete //////////////--> */
+ .form{
+  width:474px ;
+  height: 422px;
+    margin-top: 50px;
+  margin-left: 20px;
+ }
+.form-pic{
+    width: 90%;
+    height:400px ;
+       margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.save img{
+    height: 100%;
+    width: 100%;
+   
+}
+.form input{
+    width: 250px;
+   height: 30px;
+   margin: 5px;
+}
+.baton{
+    width: 250px;
+}
+/* <!-- close form section/////////// --> */

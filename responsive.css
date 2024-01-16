@@ -60,6 +60,13 @@
         width: 90%;
         margin: 10px auto;
      }
+     .form-pic{
+        display: flex;
+        flex-direction: column;
+     }
+     .form{
+        width: 100%;
+     }
    
 }
 

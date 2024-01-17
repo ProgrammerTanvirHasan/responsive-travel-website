@@ -61,12 +61,14 @@ color: white;
     border-radius: 5px;
     width: 18%;
     margin: 5px;
+    border-radius: 10px;
 }
 .search{
    background-color:#ff5400 ;
    padding: 5px;
    margin: 5px;
    height:30px ;
+   border-radius: 10px;
 }
 /* <!-- first section end////////////// --> */
 .popular-tour{
@@ -221,6 +223,7 @@ footer{
    padding: 5px;
    margin: 5px;
    width: 20%;
+   border-radius: 10px;
 }
 /* last part///////////////// */
 
@@ -230,13 +233,15 @@ footer{
   margin-bottom: 50px;
 }
 .card-ten-head{
+
   width: 90%;
   height: 500px;
   background-image: url(Group\ 39.png);
-  margin: auto;
+    margin: auto;
   position: relative;
  
 }
+
 .card-ten{
   width: 50%;
   height: 380px;
@@ -258,13 +263,19 @@ footer{
   background-image: url(Group\ 40.png);
 }
 .common{
-  color: #ff5400 ;
+  color: #ff5400;
 }
 .booking{
   background-color: #ff5400;
+  height: 30px;
+  border-radius: 10px;
 }
 .packages{
   background-color: #ff5400;
+  border-radius: 10px;
+  height: 30px;
+  padding: 5px;
+  width: 150px;
  
 }
 .last-baton{
@@ -283,6 +294,12 @@ footer{
   transform: rotate(-45deg);
   color: #cff3ed;
   text-align: center;
+}
+.sub{
+  width: 250px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: #ff5400;
 }
 
 
